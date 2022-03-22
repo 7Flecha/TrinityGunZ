@@ -1,0 +1,95 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CSCommon", "CSCommon.vcproj", "{CBD109C1-1AA3-4A57-B439-9919C08FAAA5}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		_Encrypt_BETA_Debug = _Encrypt_BETA_Debug
+		_Encrypt_BETA_Release_publish = _Encrypt_BETA_Release_publish
+		_Encrypt_BRZ_Debug = _Encrypt_BRZ_Debug
+		_Encrypt_BRZ_Release_publish = _Encrypt_BRZ_Release_publish
+		_Encrypt_Debug = _Encrypt_Debug
+		_Encrypt_JPN_Debug = _Encrypt_JPN_Debug
+		_Encrypt_JPN_Release_publish = _Encrypt_JPN_Release_publish
+		_Encrypt_KOR_Debug = _Encrypt_KOR_Debug
+		_Encrypt_KOR_Release_publish = _Encrypt_KOR_Release_publish
+		_Encrypt_USA_Debug = _Encrypt_USA_Debug
+		_Encrypt_USA_Release_publish = _Encrypt_USA_Release_publish
+
+		BETA_Debug = BETA_Debug
+		BETA_Release_publish = BETA_Release_publish
+
+		BRZ_Debug = BRZ_Debug
+		BRZ_Release_publish = BRZ_Release_publish
+		Debug = Debug
+		IND_Debug = IND_Debug
+		IND_Release_publish = IND_Release_publish
+		INTER_Debug = INTER_Debug
+		INTER_Release_publish = INTER_Release_publish
+		JPN_Debug = JPN_Debug
+		JPN_Release_publish = JPN_Release_publish
+		KOR_Debug = KOR_Debug
+		KOR_Release_publish = KOR_Release_publish
+		USA_Debug = USA_Debug
+		USA_Release_publish = USA_Release_publish
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{CBD109C1-1AA3-4A57-B439-9919C08FAAA5}._Encrypt_BRZ_Debug.ActiveCfg = _Encrypt_BRZ_Debug|Win32
+		{CBD109C1-1AA3-4A57-B439-9919C08FAAA5}._Encrypt_BRZ_Debug.Build.0 = _Encrypt_BRZ_Debug|Win32
+		{CBD109C1-1AA3-4A57-B439-9919C08FAAA5}._Encrypt_BRZ_Release_publish.ActiveCfg = _Encrypt_BRZ_Release_publish|Win32
+		{CBD109C1-1AA3-4A57-B439-9919C08FAAA5}._Encrypt_BRZ_Release_publish.Build.0 = _Encrypt_BRZ_Release_publish|Win32
+		{CBD109C1-1AA3-4A57-B439-9919C08FAAA5}._Encrypt_BETA_Debug.ActiveCfg = _Encrypt_BETA_Debug|Win32
+		{CBD109C1-1AA3-4A57-B439-9919C08FAAA5}._Encrypt_BETA_Debug.Build.0 = _Encrypt_BETA_Debug|Win32
+		{CBD109C1-1AA3-4A57-B439-9919C08FAAA5}._Encrypt_BETA_Release_publish.ActiveCfg = _Encrypt_BETA_Release_publish|Win32
+		{CBD109C1-1AA3-4A57-B439-9919C08FAAA5}._Encrypt_BETA_Release_publish.Build.0 = _Encrypt_BETA_Release_publish|Win32
+		{CBD109C1-1AA3-4A57-B439-9919C08FAAA5}._Encrypt_Debug.ActiveCfg = _Encrypt_Debug|Win32
+		{CBD109C1-1AA3-4A57-B439-9919C08FAAA5}._Encrypt_Debug.Build.0 = _Encrypt_Debug|Win32
+		{CBD109C1-1AA3-4A57-B439-9919C08FAAA5}._Encrypt_JPN_Debug.ActiveCfg = _Encrypt_JPN_Debug|Win32
+		{CBD109C1-1AA3-4A57-B439-9919C08FAAA5}._Encrypt_JPN_Debug.Build.0 = _Encrypt_JPN_Debug|Win32
+		{CBD109C1-1AA3-4A57-B439-9919C08FAAA5}._Encrypt_JPN_Release_publish.ActiveCfg = _Encrypt_JPN_Release_publish|Win32
+		{CBD109C1-1AA3-4A57-B439-9919C08FAAA5}._Encrypt_JPN_Release_publish.Build.0 = _Encrypt_JPN_Release_publish|Win32
+		{CBD109C1-1AA3-4A57-B439-9919C08FAAA5}._Encrypt_KOR_Debug.ActiveCfg = _Encrypt_KOR_Debug|Win32
+		{CBD109C1-1AA3-4A57-B439-9919C08FAAA5}._Encrypt_KOR_Debug.Build.0 = _Encrypt_KOR_Debug|Win32
+		{CBD109C1-1AA3-4A57-B439-9919C08FAAA5}._Encrypt_KOR_Release_publish.ActiveCfg = _Encrypt_KOR_Release_publish|Win32
+		{CBD109C1-1AA3-4A57-B439-9919C08FAAA5}._Encrypt_KOR_Release_publish.Build.0 = _Encrypt_KOR_Release_publish|Win32
+		{CBD109C1-1AA3-4A57-B439-9919C08FAAA5}._Encrypt_USA_Debug.ActiveCfg = _Encrypt_USA_Debug|Win32
+		{CBD109C1-1AA3-4A57-B439-9919C08FAAA5}._Encrypt_USA_Debug.Build.0 = _Encrypt_USA_Debug|Win32
+		{CBD109C1-1AA3-4A57-B439-9919C08FAAA5}._Encrypt_USA_Release_publish.ActiveCfg = _Encrypt_USA_Release_publish|Win32
+		{CBD109C1-1AA3-4A57-B439-9919C08FAAA5}._Encrypt_USA_Release_publish.Build.0 = _Encrypt_USA_Release_publish|Win32
+		{CBD109C1-1AA3-4A57-B439-9919C08FAAA5}.BRZ_Debug.ActiveCfg = BRZ_Debug|Win32
+		{CBD109C1-1AA3-4A57-B439-9919C08FAAA5}.BRZ_Debug.Build.0 = BRZ_Debug|Win32
+		{CBD109C1-1AA3-4A57-B439-9919C08FAAA5}.BRZ_Release_publish.ActiveCfg = BRZ_Release_publish|Win32
+		{CBD109C1-1AA3-4A57-B439-9919C08FAAA5}.BRZ_Release_publish.Build.0 = BRZ_Release_publish|Win32
+		{CBD109C1-1AA3-4A57-B439-9919C08FAAA5}.BETA_Debug.ActiveCfg = BETA_Debug|Win32
+		{CBD109C1-1AA3-4A57-B439-9919C08FAAA5}.BETA_Debug.Build.0 = BETA_Debug|Win32
+		{CBD109C1-1AA3-4A57-B439-9919C08FAAA5}.BETA_Release_publish.ActiveCfg = BETA_Release_publish|Win32
+		{CBD109C1-1AA3-4A57-B439-9919C08FAAA5}.BETA_Release_publish.Build.0 = BETA_Release_publish|Win32
+		{CBD109C1-1AA3-4A57-B439-9919C08FAAA5}.Debug.ActiveCfg = Debug|Win32
+		{CBD109C1-1AA3-4A57-B439-9919C08FAAA5}.Debug.Build.0 = Debug|Win32
+		{CBD109C1-1AA3-4A57-B439-9919C08FAAA5}.IND_Debug.ActiveCfg = IND_Debug|Win32
+		{CBD109C1-1AA3-4A57-B439-9919C08FAAA5}.IND_Debug.Build.0 = IND_Debug|Win32
+		{CBD109C1-1AA3-4A57-B439-9919C08FAAA5}.IND_Release_publish.ActiveCfg = IND_Release_publish|Win32
+		{CBD109C1-1AA3-4A57-B439-9919C08FAAA5}.IND_Release_publish.Build.0 = IND_Release_publish|Win32
+		{CBD109C1-1AA3-4A57-B439-9919C08FAAA5}.INTER_Debug.ActiveCfg = INTER_Debug|Win32
+		{CBD109C1-1AA3-4A57-B439-9919C08FAAA5}.INTER_Debug.Build.0 = INTER_Debug|Win32
+		{CBD109C1-1AA3-4A57-B439-9919C08FAAA5}.INTER_Release_publish.ActiveCfg = INTER_Release_publish|Win32
+		{CBD109C1-1AA3-4A57-B439-9919C08FAAA5}.INTER_Release_publish.Build.0 = INTER_Release_publish|Win32
+		{CBD109C1-1AA3-4A57-B439-9919C08FAAA5}.JPN_Debug.ActiveCfg = JPN_Debug|Win32
+		{CBD109C1-1AA3-4A57-B439-9919C08FAAA5}.JPN_Debug.Build.0 = JPN_Debug|Win32
+		{CBD109C1-1AA3-4A57-B439-9919C08FAAA5}.JPN_Release_publish.ActiveCfg = JPN_Release_publish|Win32
+		{CBD109C1-1AA3-4A57-B439-9919C08FAAA5}.JPN_Release_publish.Build.0 = JPN_Release_publish|Win32
+		{CBD109C1-1AA3-4A57-B439-9919C08FAAA5}.KOR_Debug.ActiveCfg = KOR_Debug|Win32
+		{CBD109C1-1AA3-4A57-B439-9919C08FAAA5}.KOR_Debug.Build.0 = KOR_Debug|Win32
+		{CBD109C1-1AA3-4A57-B439-9919C08FAAA5}.KOR_Release_publish.ActiveCfg = KOR_Release_publish|Win32
+		{CBD109C1-1AA3-4A57-B439-9919C08FAAA5}.KOR_Release_publish.Build.0 = KOR_Release_publish|Win32
+		{CBD109C1-1AA3-4A57-B439-9919C08FAAA5}.USA_Debug.ActiveCfg = USA_Debug|Win32
+		{CBD109C1-1AA3-4A57-B439-9919C08FAAA5}.USA_Debug.Build.0 = USA_Debug|Win32
+		{CBD109C1-1AA3-4A57-B439-9919C08FAAA5}.USA_Release_publish.ActiveCfg = USA_Release_publish|Win32
+		{CBD109C1-1AA3-4A57-B439-9919C08FAAA5}.USA_Release_publish.Build.0 = USA_Release_publish|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

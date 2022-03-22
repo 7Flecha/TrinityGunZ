@@ -1,0 +1,18 @@
+﻿Build started 13-4-2013 10:08:10.
+     1>Project "C:\Users\School\Desktop\DevilGunz\Stable vs2010 8-4\ThirdParty\Utils\DownLoader\gzip\gzip.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\gzip.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       Lib:
+         All outputs are up-to-date.
+         gzip.vcxproj -> C:\Users\School\Desktop\DevilGunz\Stable vs2010 8-4\ThirdParty\Utils\DownLoader\gzip\..\lib\gzip.lib
+       FinalizeBuildStatus:
+         Deleting file "Release\gzip.unsuccessfulbuild".
+         Touching "Release\gzip.lastbuildstate".
+     1>Done Building Project "C:\Users\School\Desktop\DevilGunz\Stable vs2010 8-4\ThirdParty\Utils\DownLoader\gzip\gzip.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.00

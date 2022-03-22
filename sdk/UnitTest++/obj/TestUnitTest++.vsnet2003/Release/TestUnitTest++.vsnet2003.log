@@ -1,0 +1,172 @@
+﻿Build started 9-3-2013 13:34:30.
+     1>Project "C:\Users\School\Desktop\DevilGunz\Stable - Copy\ThirdParty\sdk\UnitTest++\TestUnitTest++.vsnet2003.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "obj\TestUnitTest++.vsnet2003\Release\TestUnitTest++.vsnet2003.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W4 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _CONSOLE /D _MBCS /Gm- /EHsc /MT /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"obj\TestUnitTest++.vsnet2003\Release\\" /Fd"obj\TestUnitTest++.vsnet2003\Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt src\tests\Main.cpp src\tests\TestAssertHandler.cpp src\tests\TestCheckMacros.cpp src\tests\TestChecks.cpp src\tests\TestCurrentTest.cpp src\tests\TestDeferredTestReporter.cpp src\tests\TestMemoryOutStream.cpp src\tests\TestTest.cpp src\tests\TestTestList.cpp src\tests\TestTestMacros.cpp src\tests\TestTestResults.cpp src\tests\TestTestRunner.cpp src\tests\TestTestSuite.cpp src\tests\TestTimeConstraint.cpp src\tests\TestTimeConstraintMacro.cpp src\tests\TestUnitTest++.cpp src\tests\TestXmlTestReporter.cpp
+         Main.cpp
+         TestAssertHandler.cpp
+         TestCheckMacros.cpp
+     1>c:\users\school\desktop\devilgunz\stable - copy\thirdparty\sdk\unittest++\src\tests\RecordingReporter.h(41): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\school\desktop\devilgunz\stable - copy\thirdparty\sdk\unittest++\src\tests\RecordingReporter.h(42): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\school\desktop\devilgunz\stable - copy\thirdparty\sdk\unittest++\src\tests\RecordingReporter.h(50): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\school\desktop\devilgunz\stable - copy\thirdparty\sdk\unittest++\src\tests\RecordingReporter.h(52): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\school\desktop\devilgunz\stable - copy\thirdparty\sdk\unittest++\src\tests\RecordingReporter.h(53): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\school\desktop\devilgunz\stable - copy\thirdparty\sdk\unittest++\src\tests\RecordingReporter.h(54): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\school\desktop\devilgunz\stable - copy\thirdparty\sdk\unittest++\src\tests\RecordingReporter.h(62): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\school\desktop\devilgunz\stable - copy\thirdparty\sdk\unittest++\src\tests\RecordingReporter.h(63): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+         TestChecks.cpp
+     1>c:\users\school\desktop\devilgunz\stable - copy\thirdparty\sdk\unittest++\src\tests\RecordingReporter.h(41): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\school\desktop\devilgunz\stable - copy\thirdparty\sdk\unittest++\src\tests\RecordingReporter.h(42): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\school\desktop\devilgunz\stable - copy\thirdparty\sdk\unittest++\src\tests\RecordingReporter.h(50): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\school\desktop\devilgunz\stable - copy\thirdparty\sdk\unittest++\src\tests\RecordingReporter.h(52): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\school\desktop\devilgunz\stable - copy\thirdparty\sdk\unittest++\src\tests\RecordingReporter.h(53): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\school\desktop\devilgunz\stable - copy\thirdparty\sdk\unittest++\src\tests\RecordingReporter.h(54): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\school\desktop\devilgunz\stable - copy\thirdparty\sdk\unittest++\src\tests\RecordingReporter.h(62): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\school\desktop\devilgunz\stable - copy\thirdparty\sdk\unittest++\src\tests\RecordingReporter.h(63): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+         TestCurrentTest.cpp
+         TestDeferredTestReporter.cpp
+     1>src\tests\TestDeferredTestReporter.cpp(108): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>src\tests\TestDeferredTestReporter.cpp(110): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+         TestMemoryOutStream.cpp
+         TestTest.cpp
+         TestTestList.cpp
+         TestTestMacros.cpp
+     1>c:\users\school\desktop\devilgunz\stable - copy\thirdparty\sdk\unittest++\src\tests\RecordingReporter.h(41): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\school\desktop\devilgunz\stable - copy\thirdparty\sdk\unittest++\src\tests\RecordingReporter.h(42): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\school\desktop\devilgunz\stable - copy\thirdparty\sdk\unittest++\src\tests\RecordingReporter.h(50): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\school\desktop\devilgunz\stable - copy\thirdparty\sdk\unittest++\src\tests\RecordingReporter.h(52): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\school\desktop\devilgunz\stable - copy\thirdparty\sdk\unittest++\src\tests\RecordingReporter.h(53): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\school\desktop\devilgunz\stable - copy\thirdparty\sdk\unittest++\src\tests\RecordingReporter.h(54): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\school\desktop\devilgunz\stable - copy\thirdparty\sdk\unittest++\src\tests\RecordingReporter.h(62): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\school\desktop\devilgunz\stable - copy\thirdparty\sdk\unittest++\src\tests\RecordingReporter.h(63): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+         TestTestResults.cpp
+     1>c:\users\school\desktop\devilgunz\stable - copy\thirdparty\sdk\unittest++\src\tests\RecordingReporter.h(41): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\school\desktop\devilgunz\stable - copy\thirdparty\sdk\unittest++\src\tests\RecordingReporter.h(42): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\school\desktop\devilgunz\stable - copy\thirdparty\sdk\unittest++\src\tests\RecordingReporter.h(50): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\school\desktop\devilgunz\stable - copy\thirdparty\sdk\unittest++\src\tests\RecordingReporter.h(52): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\school\desktop\devilgunz\stable - copy\thirdparty\sdk\unittest++\src\tests\RecordingReporter.h(53): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\school\desktop\devilgunz\stable - copy\thirdparty\sdk\unittest++\src\tests\RecordingReporter.h(54): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\school\desktop\devilgunz\stable - copy\thirdparty\sdk\unittest++\src\tests\RecordingReporter.h(62): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\school\desktop\devilgunz\stable - copy\thirdparty\sdk\unittest++\src\tests\RecordingReporter.h(63): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+         TestTestRunner.cpp
+     1>c:\users\school\desktop\devilgunz\stable - copy\thirdparty\sdk\unittest++\src\tests\RecordingReporter.h(41): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\school\desktop\devilgunz\stable - copy\thirdparty\sdk\unittest++\src\tests\RecordingReporter.h(42): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\school\desktop\devilgunz\stable - copy\thirdparty\sdk\unittest++\src\tests\RecordingReporter.h(50): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\school\desktop\devilgunz\stable - copy\thirdparty\sdk\unittest++\src\tests\RecordingReporter.h(52): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\school\desktop\devilgunz\stable - copy\thirdparty\sdk\unittest++\src\tests\RecordingReporter.h(53): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\school\desktop\devilgunz\stable - copy\thirdparty\sdk\unittest++\src\tests\RecordingReporter.h(54): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\school\desktop\devilgunz\stable - copy\thirdparty\sdk\unittest++\src\tests\RecordingReporter.h(62): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\school\desktop\devilgunz\stable - copy\thirdparty\sdk\unittest++\src\tests\RecordingReporter.h(63): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+         TestTestSuite.cpp
+         TestTimeConstraint.cpp
+     1>c:\users\school\desktop\devilgunz\stable - copy\thirdparty\sdk\unittest++\src\tests\RecordingReporter.h(41): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\school\desktop\devilgunz\stable - copy\thirdparty\sdk\unittest++\src\tests\RecordingReporter.h(42): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\school\desktop\devilgunz\stable - copy\thirdparty\sdk\unittest++\src\tests\RecordingReporter.h(50): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\school\desktop\devilgunz\stable - copy\thirdparty\sdk\unittest++\src\tests\RecordingReporter.h(52): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\school\desktop\devilgunz\stable - copy\thirdparty\sdk\unittest++\src\tests\RecordingReporter.h(53): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\school\desktop\devilgunz\stable - copy\thirdparty\sdk\unittest++\src\tests\RecordingReporter.h(54): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\school\desktop\devilgunz\stable - copy\thirdparty\sdk\unittest++\src\tests\RecordingReporter.h(62): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\school\desktop\devilgunz\stable - copy\thirdparty\sdk\unittest++\src\tests\RecordingReporter.h(63): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+         TestTimeConstraintMacro.cpp
+     1>c:\users\school\desktop\devilgunz\stable - copy\thirdparty\sdk\unittest++\src\tests\RecordingReporter.h(41): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\school\desktop\devilgunz\stable - copy\thirdparty\sdk\unittest++\src\tests\RecordingReporter.h(42): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\school\desktop\devilgunz\stable - copy\thirdparty\sdk\unittest++\src\tests\RecordingReporter.h(50): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\school\desktop\devilgunz\stable - copy\thirdparty\sdk\unittest++\src\tests\RecordingReporter.h(52): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\school\desktop\devilgunz\stable - copy\thirdparty\sdk\unittest++\src\tests\RecordingReporter.h(53): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\school\desktop\devilgunz\stable - copy\thirdparty\sdk\unittest++\src\tests\RecordingReporter.h(54): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\school\desktop\devilgunz\stable - copy\thirdparty\sdk\unittest++\src\tests\RecordingReporter.h(62): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\school\desktop\devilgunz\stable - copy\thirdparty\sdk\unittest++\src\tests\RecordingReporter.h(63): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+         TestUnitTest++.cpp
+         TestXmlTestReporter.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\School\Desktop\DevilGunz\Stable - Copy\ThirdParty\sdk\UnitTest++\Release\TestUnitTest++.vsnet2003.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"obj\TestUnitTest++.vsnet2003\Release\TestUnitTest++.vsnet2003.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\School\Desktop\DevilGunz\Stable - Copy\ThirdParty\sdk\UnitTest++\Release\TestUnitTest++.vsnet2003.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\School\Desktop\DevilGunz\Stable - Copy\ThirdParty\sdk\UnitTest++\Release\TestUnitTest++.vsnet2003.lib" /MACHINE:X86 obj\TestUnitTest++.vsnet2003\Release\Main.obj
+         obj\TestUnitTest++.vsnet2003\Release\TestAssertHandler.obj
+         obj\TestUnitTest++.vsnet2003\Release\TestCheckMacros.obj
+         obj\TestUnitTest++.vsnet2003\Release\TestChecks.obj
+         obj\TestUnitTest++.vsnet2003\Release\TestCurrentTest.obj
+         obj\TestUnitTest++.vsnet2003\Release\TestDeferredTestReporter.obj
+         obj\TestUnitTest++.vsnet2003\Release\TestMemoryOutStream.obj
+         obj\TestUnitTest++.vsnet2003\Release\TestTest.obj
+         obj\TestUnitTest++.vsnet2003\Release\TestTestList.obj
+         obj\TestUnitTest++.vsnet2003\Release\TestTestMacros.obj
+         obj\TestUnitTest++.vsnet2003\Release\TestTestResults.obj
+         obj\TestUnitTest++.vsnet2003\Release\TestTestRunner.obj
+         obj\TestUnitTest++.vsnet2003\Release\TestTestSuite.obj
+         obj\TestUnitTest++.vsnet2003\Release\TestTimeConstraint.obj
+         obj\TestUnitTest++.vsnet2003\Release\TestTimeConstraintMacro.obj
+         obj\TestUnitTest++.vsnet2003\Release\TestUnitTest++.obj
+         obj\TestUnitTest++.vsnet2003\Release\TestXmlTestReporter.obj
+         "C:\Users\School\Desktop\DevilGunz\Stable - Copy\ThirdParty\sdk\UnitTest++\Release\UnitTest++.vsnet2003.lib"
+         TestUnitTest++.vsnet2003.vcxproj -> C:\Users\School\Desktop\DevilGunz\Stable - Copy\ThirdParty\sdk\UnitTest++\Release\TestUnitTest++.vsnet2003.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\School\Desktop\DevilGunz\Stable - Copy\ThirdParty\sdk\UnitTest++\Release\TestUnitTest++.vsnet2003.exe;#1" /manifest obj\TestUnitTest++.vsnet2003\Release\TestUnitTest++.vsnet2003.exe.intermediate.manifest
+       PostBuildEvent:
+         "C:\Users\School\Desktop\DevilGunz\Stable - Copy\ThirdParty\sdk\UnitTest++\Release\TestUnitTest++.vsnet2003.exe"
+         :VCEnd
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppCommon.targets(113,5): error MSB3073: The command ""C:\Users\School\Desktop\DevilGunz\Stable - Copy\ThirdParty\sdk\UnitTest++\Release\TestUnitTest++.vsnet2003.exe"
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppCommon.targets(113,5): error MSB3073: :VCEnd" exited with code -1073741819.
+     1>Done Building Project "C:\Users\School\Desktop\DevilGunz\Stable - Copy\ThirdParty\sdk\UnitTest++\TestUnitTest++.vsnet2003.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:31.53

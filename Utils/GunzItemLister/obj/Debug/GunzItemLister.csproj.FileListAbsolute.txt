@@ -1,0 +1,8 @@
+C:\Users\Nick\Desktop\Stable vs2010 8-4\ThirdParty\Utils\GunzItemLister\bin\Debug\GunzItemLister.exe
+C:\Users\Nick\Desktop\Stable vs2010 8-4\ThirdParty\Utils\GunzItemLister\bin\Debug\GunzItemLister.pdb
+C:\Users\Nick\Desktop\Stable vs2010 8-4\ThirdParty\Utils\GunzItemLister\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\Stable vs2010 8-4\ThirdParty\Utils\GunzItemLister\obj\Debug\GunzItemLister.Form1.resources
+C:\Users\Nick\Desktop\Stable vs2010 8-4\ThirdParty\Utils\GunzItemLister\obj\Debug\ResGen.read.1.tlog
+C:\Users\Nick\Desktop\Stable vs2010 8-4\ThirdParty\Utils\GunzItemLister\obj\Debug\ResGen.write.1.tlog
+C:\Users\Nick\Desktop\Stable vs2010 8-4\ThirdParty\Utils\GunzItemLister\obj\Debug\GunzItemLister.exe
+C:\Users\Nick\Desktop\Stable vs2010 8-4\ThirdParty\Utils\GunzItemLister\obj\Debug\GunzItemLister.pdb

@@ -1,0 +1,17 @@
+﻿Build started 13-4-2013 10:08:10.
+     1>Project "C:\Users\School\Desktop\DevilGunz\Stable vs2010 8-4\ThirdParty\Utils\DownLoader\sha1\sha1.vcxproj" on node 3 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\sha1.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Lib:
+         All outputs are up-to-date.
+         sha1.vcxproj -> C:\Users\School\Desktop\DevilGunz\Stable vs2010 8-4\ThirdParty\Utils\DownLoader\sha1\..\lib\sha1.lib
+       FinalizeBuildStatus:
+         Deleting file "Release\sha1.unsuccessfulbuild".
+         Touching "Release\sha1.lastbuildstate".
+     1>Done Building Project "C:\Users\School\Desktop\DevilGunz\Stable vs2010 8-4\ThirdParty\Utils\DownLoader\sha1\sha1.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.84

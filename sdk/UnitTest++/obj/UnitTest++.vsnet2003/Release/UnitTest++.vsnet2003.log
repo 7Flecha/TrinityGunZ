@@ -1,0 +1,57 @@
+﻿Build started 9-3-2013 13:36:06.
+     1>Project "C:\Users\School\Desktop\DevilGunz\Stable - Copy\ThirdParty\sdk\UnitTest++\UnitTest++.vsnet2003.vcxproj" on node 2 (rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "obj\UnitTest++.vsnet2003\Release\UnitTest++.vsnet2003.lastbuildstate".
+       InitializeBuildStatus:
+         Creating "obj\UnitTest++.vsnet2003\Release\UnitTest++.vsnet2003.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W4 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _LIB /D _MBCS /Gm- /EHsc /MT /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"obj\UnitTest++.vsnet2003\Release\\" /Fd"obj\UnitTest++.vsnet2003\Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt src\Win32\TimeHelpers.cpp src\AssertException.cpp src\Checks.cpp src\CurrentTest.cpp src\DeferredTestReporter.cpp src\DeferredTestResult.cpp src\MemoryOutStream.cpp src\ReportAssert.cpp src\Test.cpp src\TestDetails.cpp src\TestList.cpp src\TestReporter.cpp src\TestReporterStdout.cpp src\TestResults.cpp src\TestRunner.cpp src\TimeConstraint.cpp src\XmlTestReporter.cpp
+         TimeHelpers.cpp
+         AssertException.cpp
+     1>src\AssertException.cpp(11): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>src\AssertException.cpp(12): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+         Checks.cpp
+         CurrentTest.cpp
+         DeferredTestReporter.cpp
+         DeferredTestResult.cpp
+         MemoryOutStream.cpp
+         ReportAssert.cpp
+         Test.cpp
+         TestDetails.cpp
+         TestList.cpp
+         TestReporter.cpp
+         TestReporterStdout.cpp
+         TestResults.cpp
+         TestRunner.cpp
+         TimeConstraint.cpp
+         XmlTestReporter.cpp
+         Generating Code...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"C:\Users\School\Desktop\DevilGunz\Stable - Copy\ThirdParty\sdk\UnitTest++\Release\UnitTest++.vsnet2003.lib" /NOLOGO obj\UnitTest++.vsnet2003\Release\TimeHelpers.obj
+         obj\UnitTest++.vsnet2003\Release\AssertException.obj
+         obj\UnitTest++.vsnet2003\Release\Checks.obj
+         obj\UnitTest++.vsnet2003\Release\CurrentTest.obj
+         obj\UnitTest++.vsnet2003\Release\DeferredTestReporter.obj
+         obj\UnitTest++.vsnet2003\Release\DeferredTestResult.obj
+         obj\UnitTest++.vsnet2003\Release\MemoryOutStream.obj
+         obj\UnitTest++.vsnet2003\Release\ReportAssert.obj
+         obj\UnitTest++.vsnet2003\Release\Test.obj
+         obj\UnitTest++.vsnet2003\Release\TestDetails.obj
+         obj\UnitTest++.vsnet2003\Release\TestList.obj
+         obj\UnitTest++.vsnet2003\Release\TestReporter.obj
+         obj\UnitTest++.vsnet2003\Release\TestReporterStdout.obj
+         obj\UnitTest++.vsnet2003\Release\TestResults.obj
+         obj\UnitTest++.vsnet2003\Release\TestRunner.obj
+         obj\UnitTest++.vsnet2003\Release\TimeConstraint.obj
+         obj\UnitTest++.vsnet2003\Release\XmlTestReporter.obj
+         UnitTest++.vsnet2003.vcxproj -> C:\Users\School\Desktop\DevilGunz\Stable - Copy\ThirdParty\sdk\UnitTest++\Release\UnitTest++.vsnet2003.lib
+       FinalizeBuildStatus:
+         Deleting file "obj\UnitTest++.vsnet2003\Release\UnitTest++.vsnet2003.unsuccessfulbuild".
+         Touching "obj\UnitTest++.vsnet2003\Release\UnitTest++.vsnet2003.lastbuildstate".
+     1>Done Building Project "C:\Users\School\Desktop\DevilGunz\Stable - Copy\ThirdParty\sdk\UnitTest++\UnitTest++.vsnet2003.vcxproj" (rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.04
