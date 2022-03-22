@@ -1,0 +1,21 @@
+TRINITY GUNZ
+Version: 1,0,0,290 Build 542
+
+Runnable start on (01/17/13 17:35:55)
+Runnable By SeaTroll,
+Special Thanks to Qet123, Thom,
+Runnable made for Trinity enterainment
+
+CPU ID = GenuineIntel ( family = 774 , model = 10 , stepping = 9 ) @ 3392 MHz
+Display Device = AMD Radeon HD 7670 ( vendor=1002 device=675b subsys=25331462 revision=0 )
+Display Driver Version = 8.17.0010.1119
+Windows = 6.1 Build 7601 , Service Pack 1 (4194303KB) :  ..
+Load XML from memory : system/locale.xml- SUCCESS
+Country : (BRZ), Language : (BRZ)
+Load Config from file : config.xml- SUCCESS
+Load XML from memory : system/system.xml- SUCCESS
+Load XML from memory : system/strings.xml- SUCCESS
+Load XML from memory : system/strings.xml- SUCCESS
+Load XML from memory : system/strings.xml- SUCCESS
+Load XML from memory : system/gametypecfg.xml- SUCCESS
+GunzGuard StartUp Not Allowed....

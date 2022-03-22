@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<XML id="scenario2">
+	<SCENARIO name="test scenario 1" reward_item="1000012">
+		<SECTOR map="G_Easy_1" xp="500" bp="300">
+			<SPAWN postag="1" num="1" actor="knifeman" drop="G11"/>
+			<!-- <SPAWN postag="2" num="1" actor="knifeman" drop="G11"/> -->
+		</SECTOR>
+		<SECTOR map="G_Easy_2" xp="500" bp="300">
+			<SPAWN postag="1" num="1" actor="knifeman" drop="G11"/>
+			<!-- <SPAWN postag="2" num="2" actor="knifeman" drop="G11"/> -->
+		</SECTOR>
+		<SECTOR map="G_Easy_3" xp="500" bp="300">
+			<SPAWN postag="1" num="1" actor="knifeman" drop="G11"/>
+			<!-- <SPAWN postag="2" num="2" actor="knifeman" drop="G11"/> -->
+		</SECTOR>
+		<SECTOR map="G_Easy_4" xp="500" bp="300">
+			<SPAWN postag="1" num="1" actor="knifeman" drop="G11"/>
+			<!-- <SPAWN postag="2" num="2" actor="knifeman" drop="G11"/> -->
+		</SECTOR>
+		<SECTOR map="G_Easy_5" xp="500" bp="300">
+			<SPAWN postag="1" num="1" actor="knifeman" drop="G11"/>
+			<!-- <SPAWN postag="2" num="2" actor="knifeman" drop="G11"/> -->
+		</SECTOR>
+	</SCENARIO>
+	<SCENARIO name="test scenario 2" reward_item="1000012">
+		<SECTOR map="G_Easy_1" xp="500" bp="300">
+			<SPAWN postag="1" num="4" actor="knifeman" drop="G11"/>
+			<SPAWN postag="2" num="4" actor="knifeman" drop="G11"/>
+		</SECTOR>
+		<SECTOR map="G_Easy_2" xp="500" bp="300">
+			<SPAWN postag="1" num="4" actor="knifeman" drop="G11"/>
+			<SPAWN postag="2" num="4" actor="knifeman" drop="G11"/>
+		</SECTOR>
+	</SCENARIO>
+</XML>
